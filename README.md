@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muratgurpinar1903
+- 👋 Hi, I’m Murat GÜRPINAR
 - 👀 I’m interested in Cyber Security & Web Developer
 - 🌱 I’m currently learning Javascript & React 
 - 💞️ I’m looking to collaborate on muratgurpinar34@gmail.com
